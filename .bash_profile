@@ -1,4 +1,4 @@
-alias vscode='open -a "Visual Studio Code"'
+alias code='open -a "Visual Studio Code"'
 alias subl='open -a "Sublime Text"'
 custom_include_file() {
      if [ -f "$1" ]; then
